@@ -70,17 +70,5 @@ The decline periods by country are computed directly from adjacent five-year obs
 3. Create an app, choose the repository and branch, and set the main file path to `app.py`.
 4. Deploy, test the public app and add the generated URL here.
 
-**Public app URL:** _Add your deployed Streamlit URL here._  
-**GitHub repository:** _Add your public GitHub repository URL here._
-
-## Screenshots
-
-![Input dataset preview](screenshots/figure1_dataset_preview.png)
-
-![Continent life expectancy gain](screenshots/figure2_continent_gain.png)
-
-![2007 bubble chart](screenshots/figure3_bubble_2007.png)
-
-![India and China trends](screenshots/figure4_india_china_trends.png)
-
-![Top population comparison](screenshots/figure5_population_top10.png)
+**Public app URL:** https://datascienceapp-n8zn82cwzh4kxbaqpwcj7q.streamlit.app/  
+**GitHub repository:** https://github.com/shauryaa108/DataScienceApp
